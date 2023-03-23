@@ -6,7 +6,7 @@
 }
 
 :root{
-    --cor--primaria: #000000;
+    --cor--primaria: #0b090a;
     --cor--secundaria: #F6F6F6;
     --cor--terciaria: #22D4FD;
     --cor-quaternaria: #b722ff;
@@ -113,11 +113,12 @@ body{
 
 .rodape{
     padding: 24px;
-    background-color: var(--cor--terciaria);
+    background-color: var(--cor--secundaria);
     color: var(--cor--primaria);
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
+    font-weight: bold;
     font-size: 1.5rem;
 }
 
