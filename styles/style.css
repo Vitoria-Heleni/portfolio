@@ -113,8 +113,8 @@ body{
 
 .rodape{
     padding: 24px;
-    background-color: var(--cor--secundaria);
-    color: var(--cor--primaria);
+    background-color: var(--cor--terciaria);
+    color: var(--cor--secundaria);
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
